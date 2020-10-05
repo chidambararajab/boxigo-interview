@@ -1,2 +1,2 @@
 # boxigo-interview
-Check out the hosted lik here: https://boxigo.netlify.app/
+Check out the Deployed Link here: https://boxigo.netlify.app/
